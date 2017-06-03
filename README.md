@@ -2,10 +2,8 @@
 
 University project.
 
-FER, Zagreb
 
-
-The main idea is to implement Pacman and ghosts as independent intelligent agents.   
+The main idea was to implement Pacman and ghosts as independent intelligent agents.   
 
 ### Pacman ###
 
