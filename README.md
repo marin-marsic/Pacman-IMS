@@ -4,7 +4,6 @@ University project.
 
 FER, Zagreb
 
-2017.
 
 The main idea is to implement Pacman and ghosts as independent intelligent agents.   
 
