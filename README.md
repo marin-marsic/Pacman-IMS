@@ -28,5 +28,5 @@ The third option is to explore and move randomly. Ghosts do not move totally ran
 ### How do they work ###
 
 Pacman works really great when playing against default ghosts provided by the framework. In that case he is able to win the game. 
-My ghosts make things harder for him. When small amounts of food remain in the game, ghosts get attracted to them and that causes Pacman to get away from that food. This makes collecting food really hard for Pacman.
+My ghosts make things harder for him. When small amounts of food remain in the game, ghosts get attracted to them and that causes Pacman to get away from that food. This makes collecting remaining food really hard for Pacman.
 
