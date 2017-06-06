@@ -30,11 +30,21 @@ The third option is to explore and move randomly. Ghosts do not move totally ran
 Pacman works really great when playing against default ghosts provided by the framework. In that case he is able to win the game. 
 My ghosts make things harder for him. When small amounts of food remain in the game, ghosts get attracted to them and that causes Pacman to get away from that food. This makes collecting remaining food really hard for Pacman.
 
-##### My Pacman vs. default ghosts:
+#### My Pacman vs. default ghosts:
 
 ![My Pacman vs. default ghosts](demos/myPacmanVsDefaultGhost.gif)
 
-##### Finding remaining food
+Finding remaining food:
 
 ![Finding remaining food](demos/findingFood.gif)
+
+#### My Pacman vs. my ghosts:
+
+![My Pacman vs. my ghosts](demos/MyPacmanVsMyGhosts.gif)
+
+Ghosts are waiting for the Pacman in the region rich with food
+
+
+
+
 
